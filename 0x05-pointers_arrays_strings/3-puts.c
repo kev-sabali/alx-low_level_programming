@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * prints_string - Prints a string
+ * _puts - Prints a string
  * @str: The string to print
  *
  * Return: void
  */
-void prints_string(char *str)
+void _puts(char *str)
 {
 for (; *str != '\0'; str++)
 {
