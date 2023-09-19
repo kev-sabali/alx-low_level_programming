@@ -2,12 +2,12 @@
 #include <stdio.h>
 
 /**
- * prnt_rev - Prints a string in reverse
+ * print_rev - Prints a string in reverse
  * @s: The string to print
  *
  * Return: void
  */
-void prnt_rev(char *s)
+void print_rev(char *s)
 {
 int c = 0;
 
