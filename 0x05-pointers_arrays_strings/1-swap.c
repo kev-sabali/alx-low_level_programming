@@ -13,5 +13,4 @@ int temp_variable;
 
 temp_variable = *a;
 *a = *b;
-*b = temp_variable;
-}
+*b = temp_variable;}
