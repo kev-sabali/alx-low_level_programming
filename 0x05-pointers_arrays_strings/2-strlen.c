@@ -9,7 +9,6 @@
 int _strlen(char *s)
 
 {
-//counter = "c"
 
 int c = 0;
 
