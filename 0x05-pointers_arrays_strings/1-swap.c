@@ -7,10 +7,10 @@
  * 
  * return : void 
 */
-void swap(int *a, int *b) 
+void swap_int(int *a, int *b) 
 {
     int temp_variable = *a;
-    
+
     *a = *b;
     *b = temp_variable;
 }
