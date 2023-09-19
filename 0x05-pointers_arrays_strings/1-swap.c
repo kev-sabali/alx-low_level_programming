@@ -2,10 +2,10 @@
 /**
  * swap two values of integers
  *
- * @a: integer to swap_int
- * @b: second integer to swap_int
+ * @a: First integer to swap
+ * @b: Second integer to swap
  *
- * return : void
+ * Return : void
 */
 void swap_int(int *a, int *b)
 {
