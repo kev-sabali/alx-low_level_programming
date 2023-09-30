@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _strncat - two words
  * @dest : pointer to char param

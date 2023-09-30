@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _strncpy - two words
  * @dest : pointer to char params

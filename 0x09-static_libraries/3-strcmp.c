@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _strcmp - compare
  * @s1 : pointerto char params

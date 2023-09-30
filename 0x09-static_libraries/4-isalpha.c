@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _isalpha - checks to see if an int is a letter.
  * @c: is the int to be checked if a lower or upper case letter.
