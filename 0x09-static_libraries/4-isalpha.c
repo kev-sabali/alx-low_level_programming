@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 /**
  * _isalpha - checks to see if an int is a letter.
