@@ -1,1 +1,1 @@
-static libary
+not empty
